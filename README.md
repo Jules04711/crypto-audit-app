@@ -95,7 +95,6 @@ crypto/
 ├── internal_audit_app.py    # Main Streamlit application (7,000+ lines)
 ├── audit_data.py            # Data structures, frameworks, and sample data
 ├── audit_utils.py           # Calculation functions and algorithms
-├── Staff-Internal-Auditor.md # Job requirements reference
 └── README.md                # This file
 ```
 
