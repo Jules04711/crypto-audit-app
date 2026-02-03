@@ -1,5 +1,7 @@
 # Crypto Internal Audit Toolkit
 
+![Crypto Internal Audit Toolkit](image.png)
+
 A comprehensive Streamlit application demonstrating internal audit practices for cryptocurrency and digital asset ecosystems. Built to showcase audit methodologies including risk assessment, control testing, data analytics, wallet reconciliation, and compliance verification.
 
 ## Overview
